@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-notes for myself so i don't forget:
+so i don't forget:
 
 1. IEEE SmartIoT Submissions - July 15, 2025
 2. CSIRO NextGen Grads - December 31 2025
