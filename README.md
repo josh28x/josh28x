@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+notes for myself so i don't forget:
+
+1. IEEE SmartIoT Submissions - July 15, 2025
+2. CSIRO NextGen Grads - December 31 2025
+
 <!--
 **josh28x/josh28x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
