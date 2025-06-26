@@ -10,7 +10,7 @@ deadlines:
 - fc @ sm
 
 
-### All year round 
+### All year
 
 - https://github.com/josh28x/programs
 
