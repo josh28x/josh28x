@@ -2,7 +2,7 @@ deadlines:
 
 ### July:
 
-- chat with DK - July 2
+-  DK - July 2
 
   
 - IEEE submission - July 15
