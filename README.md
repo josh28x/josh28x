@@ -9,6 +9,8 @@ deadlines:
 
 - fc @ sm
 
+- https://lu.ma/bbxz1b6y
+
 
 ### All year
 
