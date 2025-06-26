@@ -1,7 +1,11 @@
 deadlines:
 
 ### July:
-- IEEE submission - July 15, 2025 
+
+- chat with DK - July 2
+
+  
+- IEEE submission - July 15
 
 - https://www.westernsydney.edu.au/schools/soedbe/sustainable_house_project 
 
