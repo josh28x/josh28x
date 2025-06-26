@@ -10,6 +10,11 @@ deadlines:
 - fc @ sm
 
 
+### All year round 
+
+- https://github.com/josh28x/programs
+
+
 
 ### Later: 
 
@@ -18,8 +23,6 @@ https://aaai.org/ The Fortieth Conference on Artificial Intelligence will be hel
 
 https://neurips.cc/Conferences/2025/Dates
 
-
-https://github.com/josh28x/programs
 
 
 https://arenanet.arena.gov.au/s/funding-advice
