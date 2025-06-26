@@ -1,6 +1,16 @@
 deadlines:
 
-IEEE submission - July 15, 2025
+### July:
+- IEEE submission - July 15, 2025 
+
+- https://www.westernsydney.edu.au/schools/soedbe/sustainable_house_project 
+
+- https://strongcompute.com/research-grants 
+
+- fc @ sm
+
+
+
 
 
 https://aaai.org/ The Fortieth Conference on Artificial Intelligence will be held in in Singapore EXPO from January 20 to January 27, 2026.
