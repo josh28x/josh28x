@@ -11,7 +11,7 @@ deadlines:
 
 
 
-
+### Later: 
 
 https://aaai.org/ The Fortieth Conference on Artificial Intelligence will be held in in Singapore EXPO from January 20 to January 27, 2026.
 
