@@ -8,11 +8,15 @@ https://aaai.org/ The Fortieth Conference on Artificial Intelligence will be hel
 
 https://neurips.cc/Conferences/2025/Dates
 
-funds:
+
+https://github.com/josh28x/programs
+
 
 https://arena.gov.au/funding/
 
 
 https://www.antler.co/cohort-start-dates
+
+
 
 
