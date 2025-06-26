@@ -9,7 +9,7 @@ deadlines:
 
 - fc @ sm
 
-- https://lu.ma/bbxz1b6y
+- https://lu.ma/bbxz1b6y - July 11 
 
 
 ### All year
